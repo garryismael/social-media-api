@@ -1,0 +1,5 @@
+fastapi[all]
+tortoise-orm[asyncpg]
+pytest
+aerich
+pylint
