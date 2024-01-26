@@ -3,3 +3,4 @@ tortoise-orm[asyncpg]
 pytest
 aerich
 pylint
+dependency_injector
